@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Backend Developer | PHP · Go (Golang) · Python · SQL · GraphQL · Docker
+
+## 💫 About Me:
 🔭 I’m currently working on  
 A robust **inventory and sales management (POS) system** tailored for small-to-medium businesses, built with **PHP and Go** — supporting offline transactions, automatic sync, and real-time reporting.  
 
